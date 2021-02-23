@@ -30,3 +30,4 @@ output "private" {
 output "region" {
     value = module.three-tier.region
 }
+ 
